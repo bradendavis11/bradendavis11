@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Braden!
 
-<!--
-**bradendavis11/bradendavis11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Welcome to my GitHub page..**
+_Here is where you can find all of my Projects, Media, Blogs, and more!_
 
-Here are some ideas to get you started:
+_________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+_My name is Braden Davis, I currently work as an IT Asset Management Technician
+for Mechdyne Corporation in San Jose, California._
+
+_I currently attend De Anza College in Cupertino California as I am currently 
+persuing my Bachelors Degree in Cyber Security and Digital Forensics._
+
+__________________________________________________________________________
+
+### Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| PlaceHolder     |                                       |                 |  <a href="[]">TEST</a>   |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
